@@ -1,0 +1,73 @@
+.banner_container{
+    padding: 30px;
+    
+}
+.banner_image{
+    background-image: url('https://ceotudent.com/wp-content/uploads/2020/05/netflix-poster.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    /* padding: 50px; */
+    /* background: black; */
+    /* background-blend-mode: lighten; */
+     opacity: .7;
+   
+    
+}
+.ba_image{
+    max-width: 800px;
+    /* background-color: aquamarine; */
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+   
+    
+}
+.p_head{
+    font-size: 40px;
+    color: #ffff;
+    font-weight:700;
+    margin-bottom: -30px;
+}
+.p_shead{
+    color: #ffff;
+    font-weight: 500;
+    font-size: 30px;
+    /* margin-bottom: 20px; */
+}
+.para_des{
+    font-size: 15px;
+    color: #ffff;
+    
+}
+
+.btn_movie{
+    background-color: rgb(173, 173, 173);
+    color: #ffff;
+    border: none;
+    width: 70px;
+    padding: 10px;
+    background-color: rgb(168, 13, 13);
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+
+}
+
+.btn_wish{
+    background-color: rgb(173, 173, 173);
+    color: #ffff;
+    border: none;
+    width: 70px;
+    padding: 10px;
+    background-color: rgb(168, 13, 13);
+    border-radius: 5px;
+    margin: 0 20px;
+    cursor: pointer;
+    font-weight: 500;
+
+
+}
